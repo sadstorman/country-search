@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,gBAAkB,CAClB,qBAAuB,CACvB,UAAY,CACZ,eACF,CACA,KACE,wBAAyB,CACzB,kBACF","file":"main.c253b318.chunk.css","sourcesContent":["body {\n  margin-left:  2rem;\n  background-color: black;\n  color: white;\n  margin-top: 2rem;\n}\nspan {\n  text-transform: uppercase;\n  font-weight: bolder;\n}\n"]}
